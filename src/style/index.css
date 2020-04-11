@@ -1,0 +1,22 @@
+body p {
+    font-family: sans-serif;
+}
+
+
+.lang-color {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+
+.dropdown-item{
+    cursor: pointer;
+}
+
+
+#search-history{
+    position: absolute;
+    top: 100%;
+}
